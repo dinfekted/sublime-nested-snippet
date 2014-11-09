@@ -17,7 +17,7 @@ package.
 
 ### Features
 
-Allows you to nest snippets execute snippet when you are already have snippet
+Allows you to nest snippets execution snippet when you are already have snippet
 running.
 
 
@@ -44,3 +44,8 @@ running.
 
 Commands binded in [sublime-snippet-caller](http://github.com/shagabutdinov/sublime-snippet-caller)
 plugin in order to avoid kemap conflicts.
+
+
+### Dependencies
+
+None
